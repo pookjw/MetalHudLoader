@@ -1,6 +1,6 @@
 # MetalHudLoader
 
-Enable Graphics Overview on all Metal apps.
+Enable Graphics Overview on all Metal driven apps.
 
 ![](images/0.png)
 
