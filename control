@@ -1,0 +1,9 @@
+Package: com.pookjw.metalhudloader
+Name: MetalHudLoader
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Jinwoo Kim
+Author: Jinwoo Kim
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
